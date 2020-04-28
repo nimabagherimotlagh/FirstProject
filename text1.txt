@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FC7A-29F9
+
+ Directory of C:\Users\n.bagheri.FREEZONES\Desktop\Git_projects-test
+
+04/28/2020  01:06 PM    <DIR>          .
+04/28/2020  01:06 PM    <DIR>          ..
+04/28/2020  01:06 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  77,987,409,920 bytes free
